@@ -1,6 +1,6 @@
 html, body{
-/*background-color:#B9B9B9;*/
-background-color:#FFFFFF;
+background-color:#EEEEEE;
+/*background-color:#FFFFFF;*/
 text-align:center;
 font-family:Verdana, Arial, Helvetica, sans-serif;
 font-size:80%;
@@ -41,7 +41,7 @@ border:0px solid #a0a0a0;
 background-color:#FFFFFF;
 padding:0px;
 margin:0px auto;
-width:900px;
+width:1100px;
 text-align:left;
 color:#234;
 }
@@ -192,7 +192,7 @@ line-height:3px;
 	color: #000000;
 	background-color: inherit;
 	font-family: Arial, Verdana, Geneva, sans-serif;
-	font-size: 16px !important;
+	font-size: 15px !important;
 	text-indent: 0px;
 	padding-left: 10px;
 	line-height: normal;
@@ -310,7 +310,9 @@ line-height:3px;
 
 #publication table{
 	border: 0px;
-	/*width: 700px;*/
+	width: 1000px;
+	margin-bottom: 15px;
+	margin-top: 15px;
 	align:center;
 }
 
